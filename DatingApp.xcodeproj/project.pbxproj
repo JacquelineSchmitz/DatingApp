@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED378D0F292397690078FF36 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED378D0E292397690078FF36 /* Login.swift */; };
 		ED4BEDB929224AC3000644E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4BEDB829224AC3000644E7 /* AppDelegate.swift */; };
 		ED4BEDBB29224AC3000644E7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4BEDBA29224AC3000644E7 /* SceneDelegate.swift */; };
 		ED4BEDBD29224AC3000644E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4BEDBC29224AC3000644E7 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ED378D0E292397690078FF36 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 		ED4BEDB529224AC3000644E7 /* DatingApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DatingApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED4BEDB829224AC3000644E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ED4BEDBA29224AC3000644E7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				ED4BEDB829224AC3000644E7 /* AppDelegate.swift */,
 				ED4BEDBA29224AC3000644E7 /* SceneDelegate.swift */,
+				ED378D0E292397690078FF36 /* Login.swift */,
 				ED4BEDBC29224AC3000644E7 /* ViewController.swift */,
 				ED4BEDBE29224AC3000644E7 /* Main.storyboard */,
 				ED4BEDC129224AC4000644E7 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				ED4BEDBD29224AC3000644E7 /* ViewController.swift in Sources */,
 				ED4BEDB929224AC3000644E7 /* AppDelegate.swift in Sources */,
 				ED4BEDBB29224AC3000644E7 /* SceneDelegate.swift in Sources */,
+				ED378D0F292397690078FF36 /* Login.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
